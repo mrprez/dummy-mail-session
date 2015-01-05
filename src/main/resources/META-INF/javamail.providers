@@ -1,0 +1,3 @@
+# JavaMail SMTP provider
+protocol=smtp; type=transport; class=com.mrprez.mail.DummyTransport; vendor=MrPrez;
+protocol=imap; type=store; class=com.mrprez.mail.DummyStore; vendor=MrPrez;
